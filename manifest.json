@@ -1,0 +1,10 @@
+{
+  "name": "Pengukuran Pencahayaan IH HSE PT. GNI",
+  "short_name": "Pencahayaan",
+  "description": "Aplikasi pengukuran pencahayaan dengan export Excel dan PDF.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#185a9d",
+  "orientation": "portrait"
+}
